@@ -5,7 +5,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "MALVIN-XD~gpYHWbrR#SjYtdkhjBUfIIqGANexM2iws-XzAHSt9EY8xYDChSOI",
+SESSION_ID: process.env.SESSION_ID || "MALVIN-XD~wg40SQiC#831mLTcD0NWeAcA0xqnj7qY5wvEbZ-LwXcud99gJFO4",
 // add your Session Id 
 
 PREFIX: process.env.PREFIX || ".",
@@ -23,12 +23,12 @@ CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️�
 DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // automatic delete links witho remove member 
 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "2349136899665",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "2347010679720",
 // add your bot owner number
 
 OWNER_NAME: process.env.OWNER_NAME || "✦ᴀpex🪀✦",
 // add bot owner name
-DESCRIPTION: process.env.DESCRIPTION || "> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ✦ɴᴇxᴜs ᴛᴇᴄʜ✦ ɪɴᴄ*",
+DESCRIPTION: process.env.DESCRIPTION || "> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ✦APEXCORPORATIONS✦ ɪɴᴄ*",
 // add bot owner name    
 
 ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/bddvfr.jpg",
