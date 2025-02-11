@@ -5,7 +5,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "MALVIN-XD~wg40SQiC#831mLTcD0NWeAcA0xqnj7qY5wvEbZ-LwXcud99gJFO4",
+SESSION_ID: process.env.SESSION_ID || "MALVIN-XD~Zl5lhRjC#YmiDF8aJRMWSxHsXDU8CYmlpwnTtnfmHTdnRjmDMbzQ",
 // add your Session Id 
 
 PREFIX: process.env.PREFIX || ".",
@@ -23,12 +23,12 @@ CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️�
 DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // automatic delete links witho remove member 
 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "2347010679720",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "2349036457421",
 // add your bot owner number
 
 OWNER_NAME: process.env.OWNER_NAME || "✦ᴀpex🪀✦",
 // add bot owner name
-DESCRIPTION: process.env.DESCRIPTION || "> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ✦APEXCORPORATIONS✦ ɪɴᴄ*",
+DESCRIPTION: process.env.DESCRIPTION || "> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ✦KELVIN✦ ɪɴᴄ*",
 // add bot owner name    
 
 ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/bddvfr.jpg",
@@ -37,7 +37,7 @@ ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/bddvfr.jpg",
 MENU_IMG: process.env.MENU_IMG || "https://files.catbox.moe/bddvfr.jpg",
 // dont change menu image
 
-LIVE_MSG: process.env.LIVE_MSG || "> ✦ᴀpex bot✦ ɪs sᴘᴀʀᴋɪɴɢ ᴀᴄᴛɪᴠᴇ ᴀɴᴅ ᴀʟɪᴠᴇ\n\n\nᴋᴇᴇᴘ ᴜsɪɴɢ ✦ᴍᴀʟᴠɪɴ xᴅ✦ ғʀᴏᴍ ɴᴇxᴜs ᴛᴇᴄʜ ɪɴᴄ⚡\n\n\n*© ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ - ᴍᴅ\n\n> ɢɪᴛʜᴜʙ :* github.com/kingmalvn/MALVIN-XD",
+LIVE_MSG: process.env.LIVE_MSG || "> ✦Kelvin bot✦ ɪs sᴘᴀʀᴋɪɴɢ ᴀᴄᴛɪᴠᴇ ᴀɴᴅ ᴀʟɪᴠᴇ\n\n\nᴋᴇᴇᴘ ᴜsɪɴɢ ✦ᴍᴀʟᴠɪɴ xᴅ✦ ғʀᴏᴍ ɴᴇxᴜs ᴛᴇᴄʜ ɪɴᴄ⚡\n\n\n*© ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ - ᴍᴅ\n\n> ɢɪᴛʜᴜʙ :* github.com/kingmalvn/MALVIN-XD",
 // add alive msg here 
 
 READ_MESSAGE: process.env.READ_MESSAGE || "false",
@@ -49,13 +49,13 @@ AUTO_REACT: process.env.AUTO_REACT || "false",
 ANTI_BAD: process.env.ANTI_BAD || "false",
 // false or true for anti bad words
 
-AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
+AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "false",
 // make true or false status auto seen
 
 AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
 // make true if you want auto reply on status 
 
-AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*🎉👀 Status Seen by ᴀpex 🚀🔥*",
+AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*🎉👀 Status Seen by Kelvin🚀🔥*",
 // set the auto reply massage on status reply    
 
 MODE: process.env.MODE || "private",
